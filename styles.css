@@ -1,0 +1,14 @@
+.card {
+  margin: 3px;
+  padding: 2px;
+}
+
+.redteam {
+  background-color: rgb(255, 200, 200);
+  color: rgb(0, 0, 0);
+}
+
+.blueteam {
+  background-color: rgb(217, 217, 255);
+  color: rgb(0, 0, 0);
+}
